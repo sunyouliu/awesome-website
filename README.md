@@ -7,7 +7,8 @@
 ## 开发类
 1. [tailwindcss](https://www.tailwindcss.cn/)
 2. [Swiper](https://swiperjs.com/),The Most Modern Mobile Touch Slider
-
+3. [vue-amazing-ui](https://themusecatcher.github.io/vue-amazing-ui/guide/features.html)，主要是里面用了别的流行组件，大集合
+   
 ## 云服务
 1. [DigitalOcean](https://www.digitalocean.com/)，免费60天
 
