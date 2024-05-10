@@ -9,7 +9,7 @@
 1. [tailwindcss](https://www.tailwindcss.cn/)
 
 ## 云服务
-1. [DigitalOcean]（https://www.digitalocean.com/），免费60天
+1. [DigitalOcean](https://www.digitalocean.com/)，免费60天
 
 ## Hugo
 1. [Cusdis](https://cusdis.com/)
