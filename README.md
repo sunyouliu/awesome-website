@@ -5,8 +5,8 @@
 2. [Pexels](https://www.pexels.com/),The best free stock photos, royalty free images & videos shared by creators.
 
 ## 开发类
-### css
 1. [tailwindcss](https://www.tailwindcss.cn/)
+2. [Swiper](https://swiperjs.com/),The Most Modern Mobile Touch Slider
 
 ## 云服务
 1. [DigitalOcean](https://www.digitalocean.com/)，免费60天
