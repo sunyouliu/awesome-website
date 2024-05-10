@@ -1,4 +1,4 @@
-# awesome-website
+# awesome-website【持续更新...】
 
 ## 图片类
 1. [Lorem Picsum](https://picsum.photos/),Easy to use, stylish placeholders
