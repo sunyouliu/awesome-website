@@ -3,6 +3,8 @@
 ## 图片类
 1. [Lorem Picsum](https://picsum.photos/),Easy to use, stylish placeholders
 2. [Pexels](https://www.pexels.com/),The best free stock photos, royalty free images & videos shared by creators.
+3. [zhihu](https://www.zhihu.com/question/21757507)
+4. 
 
 ## 开发类
 1. [tailwindcss](https://www.tailwindcss.cn/)
