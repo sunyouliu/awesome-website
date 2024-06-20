@@ -25,3 +25,6 @@
 
 ## Extention
 1. [Video DownloadHelper](https://www.downloadhelper.net)（适用于Chrome和Firefox）
+
+## AI
+1. [文字转图片](https://ideogram.ai/)
